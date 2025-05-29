@@ -1,3 +1,3 @@
 # testRepo
 this is my first repo
-i am from LJ
+i am from L
